@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://alwaysavailablelimoandshuttle.com/sitemap.xml
